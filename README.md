@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Onkelz-Freak1993
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# and C
 - 📫 Message me on Discord: onkelzfreak1993
 
 <!---
