@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Onkelz-Freak1993
+- 👋 Hi, I’m Otter!
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning C# and C
 - 🌐 https://www.onkelzfreak1993.net/
